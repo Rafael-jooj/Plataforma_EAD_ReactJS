@@ -5,7 +5,7 @@ Plataforma de aulas/eventos EAD feita com ReactJS utilizando TypeScript e GraphQ
 
 ## Descrição do Projeto
 <p>Esse projeto se trata do desenvolvimento de uma plataforma de aulas ou eventos online utilizando ReactJS para o front-end e GraphQL/GraphCMS como Banco de dados e API.</p> 
-<p>O sistema Permite ao organizador do evento/aulas inserir as informações da aula, do professor, materiais complementares e os vídeos por meio do id do vídeo disponibilizado no youtube por meio da api do vime.</p>
+<p>O sistema Permite ao organizador do evento/aulas inserir as informações da aula, do professor, materiais complementares e os vídeos por meio do id do vídeo disponibilizado no youtube utilizando a api do vime para react.</p>
 <p>O usuário que acessar a ferramenta para assistir as aulas encontrará a listagem das aulas na lateral direita da tela e os materiais disponibilizados no rodapé da aula</p>
 
 ![tela1](https://user-images.githubusercontent.com/71270235/180627624-ee484a6e-d1ea-4adf-92a2-5febb8b6a033.png)
